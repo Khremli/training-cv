@@ -20,12 +20,13 @@ I am currently working as a manual tester and also as an assistant project manag
 ===
 ## Skills:
 ===
-* project-managment methodologies (scrum, kanban);
-* jira, redmine, trello;
-* figma, adobe photoshop;
-* WP, shopify, gatsby, netlify, sanity, moodle - as QA;
-* CRM ActiveCampaign, Mailchimp, SalesForce;
+* Project-managment methodologies (scrum, kanban);
+* BTN jira, redmine, trello;
+* Figma, Adobe photoshop, Mirp;
+* WP, Shopify, Gatsby, Netlify, Sanity, Moodle, “OpenCart”, “Magento” - as QA;
+* CRM ActiveCampaign, Mailchimp, SalesForce, Confluence;
 * devtools, android studio, emulators, jmeter;
+* API testing: Postman, Charles (basics)
 * SEO basics;
 * business correspondence (with Clients too);
 * JS basics;
@@ -41,20 +42,27 @@ html-academy:
 * training simulators for creating interactive elements (sliders, toggles, forms, catalogues) (html, js)
 ===
 ## Education:
-* univer
-* epam. [Certificate](https://drive.google.com/file/d/1bh5mVZp-sm7e_v3_MkQe8BP0YLyCe47w/view?usp=sharing)
-* 2 
-* com ed basics
-* Moodle
-* SEO learning
-* JS from 0
+
+    Education/courses                                          | Period 
+---------------------------------------------------------------|:-------------: 
+Completed higher education / BNTU Civil engineering            | 2007-2012
+“Software Testing Introduction” course / EPAM                  | 2022
+“Computer Science Basics” course / EPAM                        | 2022
+“Tester from scratch” online course                            | 2022
+Moodle basics                                                  | 2022
+SEO Learning course                                            | 2023
+API Testing. Postman                                           | 2023
+"JS from scratch" course                                       | 2023
+"JS online guide" course                                       | 2024
+HTML-academy simulators                                        | 2024
+
+### Certificates: 
+* “Software Testing Introduction” [Certificate](https://drive.google.com/file/d/1bh5mVZp-sm7e_v3_MkQe8BP0YLyCe47w/view?usp=sharing)
 * JS online guide [Certificate](https://drive.google.com/file/d/1g9GDVfu9HG19t7mK3cZEWExc8qP2ySoR/view?usp=sharing)
-* html academy theory+simulators ()
-* githowto
 ===
 ## Languages
 ===
-* English A2/B1
+* English B1
 The language practice takes place by communicating with colleagues, business correspondence, using sources for education in English/
 ===
 * German basics
