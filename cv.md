@@ -1,5 +1,5 @@
 # Vera Khremli
-===
+
 ## Contacts:
 
 * Phone [+375298550739](tel:+1234567890)
@@ -14,7 +14,7 @@ My goal: to become a good frontend developer, at the moment to develop myself in
 
 My strengths are the ability to communicate with different types of people, smartness, eagerness to understand things, honesty, politeness and diligence.
 
-I am currently working as a manual tester and also as an assistant project manager on some projects. I work in outsourcing, so multitasking and switching is something I know, can do and practise every day. I like to see things through to the end and love my projects. We bring each of them together with the team to get the best results and see positive feedback from the client.
+I am currently working as a manual tester and also as an assistant project manager on some projects. I work in outsourcing, so multitasking and switching is something I know, can do and practise every day. I like to see things through to the end and love my projects. We bring each of them together with the team to get the best results and see positive feedback from the client
 ===
 ## Skills:
 
@@ -41,17 +41,18 @@ html-academy:
 ===
 ## Education:
 
-Education/courses                                              | Period 
-Completed higher education / BNTU Civil engineering            | 2007-2012
-“Software Testing Introduction” course / EPAM                  | 2022
-“Computer Science Basics” course / EPAM                        | 2022
-“Tester from scratch” online course                            | 2022
-Moodle basics                                                  | 2022
-SEO Learning course                                            | 2023
-API Testing. Postman                                           | 2023
-"JS from scratch" course                                       | 2023
-"JS online guide" course                                       | 2024
-HTML-academy simulators                                        | 2024
+|Education/courses                                              | Period    |
+|---------------------------------------------------------------|-----------|
+|Completed higher education / BNTU Civil engineering            | 2007-2012 |
+|“Software Testing Introduction” course / EPAM                  | 2022      |
+|“Computer Science Basics” course / EPAM                        | 2022      |
+|“Tester from scratch” online course                            | 2022      |
+|Moodle basics                                                  | 2022      |
+|SEO Learning course                                            | 2023      |
+|API Testing. Postman                                           | 2023      |
+|"JS from scratch" course                                       | 2023      |
+|"JS online guide" course                                       | 2024      |
+|HTML-academy simulators                                        | 2024      |
 
 ### Certificates: 
 * “Software Testing Introduction” [Certificate](https://drive.google.com/file/d/1bh5mVZp-sm7e_v3_MkQe8BP0YLyCe47w/view?usp=sharing)
