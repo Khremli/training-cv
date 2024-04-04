@@ -1,17 +1,15 @@
 # Vera Khremli
 ===
-===
 ## Contacts:
-===
+
 * Phone [+375298550739](tel:+1234567890)
 * Telegram @Vera_Khremli
 * mail  
     + [vera-khremli@gmail.com](mailto:vera-khremli@gmail.com)
     + lovet.post@gmail.com
 * [linkedin](https://linkedin.com/)
-===
+
 ## About myself:
-===
 My goal: to become a good frontend developer, at the moment to develop myself in learning js and then learn new frameworks.
 
 My strengths are the ability to communicate with different types of people, smartness, eagerness to understand things, honesty, politeness and diligence.
@@ -19,7 +17,7 @@ My strengths are the ability to communicate with different types of people, smar
 I am currently working as a manual tester and also as an assistant project manager on some projects. I work in outsourcing, so multitasking and switching is something I know, can do and practise every day. I like to see things through to the end and love my projects. We bring each of them together with the team to get the best results and see positive feedback from the client.
 ===
 ## Skills:
-===
+
 * Project-managment methodologies (scrum, kanban);
 * BTN jira, redmine, trello;
 * Figma, Adobe photoshop, Mirp;
@@ -34,17 +32,16 @@ I am currently working as a manual tester and also as an assistant project manag
 * CSS basics;
 * SQL basics;
 * Git, GitLab
-===
+
 ## Projects:
-===
+
 html-academy: 
 * training project "Kvast" landing (html + css);
 * training simulators for creating interactive elements (sliders, toggles, forms, catalogues) (html, js)
 ===
 ## Education:
 
-    Education/courses                                          | Period 
----------------------------------------------------------------|:-------------: 
+Education/courses                                              | Period 
 Completed higher education / BNTU Civil engineering            | 2007-2012
 “Software Testing Introduction” course / EPAM                  | 2022
 “Computer Science Basics” course / EPAM                        | 2022
@@ -59,10 +56,28 @@ HTML-academy simulators                                        | 2024
 ### Certificates: 
 * “Software Testing Introduction” [Certificate](https://drive.google.com/file/d/1bh5mVZp-sm7e_v3_MkQe8BP0YLyCe47w/view?usp=sharing)
 * JS online guide [Certificate](https://drive.google.com/file/d/1g9GDVfu9HG19t7mK3cZEWExc8qP2ySoR/view?usp=sharing)
-===
+
 ## Languages
-===
+
 * English B1
 The language practice takes place by communicating with colleagues, business correspondence, using sources for education in English/
-===
 * German basics
+
+## Code
+```
+function unique(arr) {
+  let uniqueItems = [];
+  for (let i = 0; i < arr.length; i++) {
+    element = arr[i];
+    let itemArr=[];
+    for (let item of arr) {
+      itemArr = arr.filter(item => item == element);
+      }    
+    if (itemArr.length == 1) {
+      uniqueItems.push(element)
+    }    
+    itemArr = itemArr.splice(0, itemArr.length);    
+  }
+  return uniqueItems;
+}
+```
