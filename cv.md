@@ -17,14 +17,14 @@ My **strengths** are the ability to communicate with different types of people, 
 ## Skills:
 
 * Project-managment methodologies (scrum, kanban);
-* BTN jira, redmine, trello;
-* Figma, Adobe photoshop, Mirp;
+* BTN jira, redmine, trello, asana;
+* Figma, Adobe photoshop, Miro;
 * WP, Shopify, Gatsby, Netlify, Sanity, Moodle, “OpenCart”, “Magento” - as QA;
 * CRM ActiveCampaign, Mailchimp, SalesForce, Confluence;
 * devtools, android studio, emulators, jmeter;
 * API testing: Postman, Charles (basics)
 * SEO basics;
-* business correspondence (with Clients too);
+* business correspondence (with Clients, the team);
 * JS basics;
 * HTML basics;
 * CSS basics;
